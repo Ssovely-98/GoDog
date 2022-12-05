@@ -1,8 +1,8 @@
-# GoDog
+# SSAFY 1학기 Final Project
 
 <p align="cneter"><img src="https://user-images.githubusercontent.com/92502057/205588602-b6aebdfe-92e0-4149-9672-c881c9789003.png" width="100%" height="100%"/></p>
 
-SSAFY 1학기 Final Project
+반려동물과 함께 여행 가자개!
 #
 # Outline
 강원도 지역의 반려동물 관광과 관련된 정보를 제공하여 반려동물 동반 관광 여행을 쉽게 계획할 수 있도록 돕는 정보들을 제공한다. 제공하는 정보는 관광지, 숙박, 식음료, 체험, 동물병원, 산책로 등으로 세분화하여 제공함
